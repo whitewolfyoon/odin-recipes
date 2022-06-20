@@ -1,0 +1,16 @@
+.odd {
+    background-color: pink;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+#three {
+    font-size: 24px;
+}
+#four {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
